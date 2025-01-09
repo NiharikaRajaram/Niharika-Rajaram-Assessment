@@ -20,6 +20,7 @@ A Python Script to parse a log file and find the corresponding outputs as per th
 - sv_P1 and sv_p1 are treated the same since case insensitive matching is performed here. The output tags will contain the lower case version.
 
 ## Execution
+- Either clone the project or download the Zip of project, unzip it and follow the following instructions.
 - Input files are available in the folder named data/input.
 - Ouput files will be written in the folder named data/output once the code is executed.
 - Programming language - Python 3.12
